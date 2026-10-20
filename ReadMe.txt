@@ -11,7 +11,8 @@ A clean, accurate, and lightweight Persian (فارسی) localization for Deadloc
 - Item & Shop Descriptions: in natural gamer Persian
 - Settings Menu: the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat...) in Persian
 - Hero Quips & Reactions: in-match voice lines shown as text
-- Custom Splash Logo: branded loading screen
+- Custom Branding: your logo on the loading screen AND the shop background
+- Hero Tags: all 132 hero-select tags in Persian transliteration
 - Vanilla Upgrade Cards: Tier 1 / Tier 2 / Tier 3 upgrades stay in clean English so stats, numbers, and scaling remain crystal clear and readable
 - BiDi & RTL Fixed: no reversed numbers, broken brackets, or UI layout glitches
 - Zero Gameplay Impact: pure text mod, no scripts, no performance cost

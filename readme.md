@@ -16,7 +16,8 @@ A clean Persian (Farsi) localization mod for Valve's Deadlock.
 - **Hero lore** — all 47 hero lores translated
 - **Item & shop descriptions** — in natural gamer Persian
 - **Settings menu** — the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat…) in Persian
-- **Custom splash logo** — branded loading screen
+- **Custom branding** — your logo on the loading screen AND the shop background
+- **Hero tags** — all 132 hero-select tags in Persian transliteration (تانک، برالر، اسنایپر...)
 - **Hero quips & reactions** — in-match voice lines shown as text
 - **Vanilla upgrade cards** — Tier 1 / Tier 2 / Tier 3 stat cards stay in clean English so stats, numbers, and scaling remain crystal clear
 - **RTL done right** — correct right-to-left rendering: no reversed numbers, broken brackets, or UI glitches
