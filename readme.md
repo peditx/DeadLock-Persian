@@ -6,6 +6,8 @@
 
 A clean Persian (Farsi) localization mod for Valve's Deadlock.
 
+🌐 **Website:** [games.peditx.ir](https://games.peditx.ir)
+
 ---
 
 ## ✨ Features

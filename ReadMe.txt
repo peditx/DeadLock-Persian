@@ -2,6 +2,9 @@
 
 A clean, accurate, and lightweight Persian (فارسی) localization for Deadlock!
 
+🌐 Website: https://games.peditx.ir
+📦 GitHub: https://github.com/peditx/DeadLock-Persian
+
 ✨ Features
 - Full Hero Ability Translations: 100% faithful Persian descriptions for all 47+ heroes, including Hero Labs heroes
 - Hero Lore: every hero's lore translated

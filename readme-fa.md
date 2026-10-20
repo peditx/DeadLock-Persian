@@ -6,6 +6,8 @@
 
 یک مود فارسی‌سازی تمیز و دقیق برای بازی Deadlock شرکت والو.
 
+🌐 **سایت:** [games.peditx.ir](https://games.peditx.ir)
+
 ---
 
 ## ✨ فیچرها
