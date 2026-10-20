@@ -9,10 +9,9 @@ A clean, accurate, and lightweight Persian (فارسی) localization for Deadloc
 - Full Hero Ability Translations: 100% faithful Persian descriptions for all 47+ heroes, including Hero Labs heroes
 - Hero Lore: every hero's lore translated
 - Item & Shop Descriptions: in natural gamer Persian
-- Settings Menu: the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat...) in Persian
+- Settings Menu: the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat...) in Persian (812/853 keys)
 - Hero Quips & Reactions: in-match voice lines shown as text
-- Custom Branding: your logo on the loading screen AND the shop background
-- Hero Tags: all 132 hero-select tags in Persian transliteration
+- Custom Splash Logo: your logo on shop_logo_psd and shop_logo_ui shop textures
 - Vanilla Upgrade Cards: Tier 1 / Tier 2 / Tier 3 upgrades stay in clean English so stats, numbers, and scaling remain crystal clear and readable
 - BiDi & RTL Fixed: no reversed numbers, broken brackets, or UI layout glitches
 - Zero Gameplay Impact: pure text mod, no scripts, no performance cost
@@ -42,7 +41,6 @@ text replace in gameinfo :
             Write "core"
             Game  "core"
 
-
 Launch the game and enjoy!
 
 🗑️ Uninstallation
@@ -52,7 +50,7 @@ Simply delete pak82_dir.vpk from the addons\ folder.
 Soul, Deny, tier upgrade cards, hero / ability / item names, and tech terms like FPS, VSync, DLSS — the words every Deadlock player uses.
 
 🚧 In progress
-Rest of the in-game menus, hero tags, and in-game subtitles / VO captions.
+Rest of the in-game menus, hero playstyles/roles, and in-game subtitles / VO captions.
 
 🙏 Credits
 Base localization (abilities, quips, items) — original mod author
