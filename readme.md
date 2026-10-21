@@ -15,9 +15,9 @@ A clean Persian (Farsi) localization mod for Valve's Deadlock.
 - **Hero abilities** — full Persian descriptions for every hero, including Nurse Harrow and Hero Labs
 - **Hero lore** — all 48 hero lores translated (Harrow included)
 - **Item & shop descriptions** — in natural gamer Persian
-- **Main menu** — Play and Esc buttons translated
+- **Full menu in Persian** — dashboard, shop, builds, hero page, party, queue, post-game and more (4248 new keys; 92% of menu text)
 - **Settings menu** — the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat…) in Persian (812/853 keys)
-- **Custom branding** — your logo with rounded corners on the shop background (original art kept, badge swapped)
+- **Custom branding** — your rounded-corner logo composited on the pristine original game background (extracted from pak01, original art untouched)
 - **Hero tags** — hero-select tags stay in clean, readable English
 - **Hero quips & reactions** — in-match voice lines shown as text
 - **Vanilla upgrade cards** — Tier 1 / Tier 2 / Tier 3 stat cards stay in clean English so stats, numbers, and scaling remain crystal clear

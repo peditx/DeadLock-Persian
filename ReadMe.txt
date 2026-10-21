@@ -6,12 +6,13 @@ A clean, accurate, and lightweight Persian (فارسی) localization for Deadloc
 📦 GitHub: https://github.com/peditx/DeadLock-Persian
 
 ✨ Features
-- Full Hero Ability Translations: 100% faithful Persian descriptions for all 48+ heroes, including Nurse Harrow and Hero Labs heroes
+- Full Hero Ability Translations: faithful Persian descriptions for all 48+ heroes, including Nurse Harrow and Hero Labs heroes (342 keys)
 - Hero Lore: every hero's lore translated
 - Item & Shop Descriptions: in natural gamer Persian
-- Settings Menu: the whole Settings section (Video, Audio, Keybinds, Camera, Accessibility, Shop, Chat...) in Persian (812/853 keys)
+- Settings Menu: the whole Settings section in Persian (812/853 keys)
+- Full Menu Localization: dashboard, shop, builds, hero pages, party, queue, post-game — 92% of all menu strings in Persian (4846/5328 keys)
 - Hero Quips & Reactions: in-match voice lines shown as text
-- Custom Splash Logo: your rounded-corner logo composited on the shop background (original art kept, badge swapped)
+- Custom Splash Logo: your rounded-corner logo on the pristine original game shop background (extracted from the game itself)
 - Main Menu: Play and Esc buttons translated
 - Vanilla Upgrade Cards: Tier 1 / Tier 2 / Tier 3 upgrades stay in clean English so stats, numbers, and scaling remain crystal clear and readable
 - BiDi & RTL Fixed: no reversed numbers, broken brackets, or UI layout glitches
